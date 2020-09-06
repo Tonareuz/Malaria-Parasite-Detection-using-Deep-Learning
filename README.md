@@ -1,2 +1,2 @@
-# Malaria-Parasite-Detection-using-Machine-Learning
+# Malaria-Parasite-Detection-using-Deep-Learning
 This procedure incorporates four central steps to recognize the malarial parasite from the blood smear pictures. The underlying advance is to clean up the photos got from the dataset. This incorporates ousting high repeat racket and updating the intricacy of pictures. To isolate the image into areas of interest and non-region of interest, picture division is applied using watershed division. The accompanying and most noteworthy development is the segment extraction which will help the classifier with recognizing the corrupted and the parasitized pictures. This is followed by the last development which is gathering of the photos using the Convolutional Neural Networks.
